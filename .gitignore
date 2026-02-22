@@ -1,0 +1,7 @@
+.idea/
+
+**/cmake-build-debug/
+**/vcpkg_installed/
+
+**/__pycache__/
+

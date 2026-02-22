@@ -1,0 +1,11 @@
+[project]
+name = "algorithms-py"
+version = "1.0.0"
+requires-python = "==3.14.*"
+dependencies = [
+    "pytest>=9.0.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
